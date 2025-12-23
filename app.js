@@ -202,6 +202,9 @@
     cetoconazol_creme: "Cetoconazol creme 2%\nAplicar fina camada 2x ao dia por 14 dias (conforme orientação).",
     miconazol_creme: "Miconazol creme\nAplicar fina camada 2x ao dia por 14 dias (conforme orientação).",
     cetoconazol_shampoo: "Shampoo Cetoconazol 2%\nAplicar, deixar agir 3–5 min e enxaguar; usar 2–3x/semana por 2–4 semanas.",
+  
+    //Antibióticos
+    Amoxicilina: "Amoxicilina 500 mg 21 comprimidos, tomar 01 comprimido de 08/08 horas durante 07 dias.", 
 
     // Analgésicos / antiinflamatórios simples
     dipirona: "Dipirona 500mg\nTomar 01 comprimido a cada 6–8 horas, se dor ou febre, por até 3 dias.",
